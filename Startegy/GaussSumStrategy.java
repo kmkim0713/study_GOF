@@ -1,4 +1,4 @@
-package StartegyTest;
+package Startegy;
 
 public class GaussSumStrategy implements SumStrategy {
 
