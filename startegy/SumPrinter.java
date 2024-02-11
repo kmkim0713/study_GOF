@@ -1,4 +1,4 @@
-package startegy;
+package Startegy;
 
 class SumPrinter {
 

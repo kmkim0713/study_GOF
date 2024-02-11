@@ -1,4 +1,4 @@
-package startegy;
+package Startegy;
 
 public class SimpleSumStrategy implements SumStrategy {
 
